@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Thoughts & Comments"
+permalink: /thoughts/
+---
+
+Here are my thoughts and comments to mostly anything.
+
+<b> But mainly I write about games, TV series and manga. </b>
+
+<ul>
+    {% for post in site.posts %}
+        <li>
+            {% if post.catagories == 'thoughts' %}
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <p>{{ post.excerpt }}</p>
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>
