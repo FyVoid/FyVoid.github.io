@@ -2,7 +2,6 @@
 layout: post
 title: 北航离散数学(1)-python相关代码实现
 date: 2023/08/01 19:00:00 +0800
-categories: BUAA
 ---
 
 > 毫无疑问的是，MDF倾注了他67.7%的努力，铸就了北航离散数学（1）这个DF一般的精品课程

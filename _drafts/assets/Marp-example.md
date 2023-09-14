@@ -1,9 +1,3 @@
----
-layout: post
-title: "在Mac下使用iverilog和gtkwave进行verilog仿真"
-date: 2023/09/05 19:16:00 +0800
----
-
 > 由于**iverilog**和**gtkwave**均为跨平台开源工具，进行配置后本教程同样适用于windows和linux平台
 
 由于在Mac端无法使用ISE和VCS，我在搜索后找到了iverilog和gtkwave作为Mac端原生编译和运行调试verilog的工具，在此做一个分享（编辑器采用VSCode）。
@@ -161,7 +155,7 @@ gtkwave可以**直接打开软件**，打开波形文件查看。
 
 如图，gtkwave中就可以查看仿真的波形，可以看到和预想的结果一致。
 
-![]({{site.baseurl}}/assets/gtkwave.png)
+![](/../../../assets/gtkwave.png)
 
 ## 偷懒
 
@@ -189,6 +183,6 @@ gtkwave wave.vcd
 
 通过在终端将这个shell脚本当作编译命令使用，可以直接完成上一节的所有过程。
 
-![]({{site.baseurl}}/assets/shell_gtkwave.png)
+![](/../../../assets/shell_gtkwave.png)
 
 也可以修改shell脚本中相关部分，直接在vscode中运行shell脚本。

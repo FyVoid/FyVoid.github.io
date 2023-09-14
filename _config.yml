@@ -21,9 +21,9 @@
 title: FyVoid's blog
 email: mythstudiofyvoid@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  this is FyVoid's blog, mainly created to record my learning progress and share some of my thoughts
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+   やりたいこと最優先！
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://fyvoid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FyVo1d
 github_username:  FyVoid
 
