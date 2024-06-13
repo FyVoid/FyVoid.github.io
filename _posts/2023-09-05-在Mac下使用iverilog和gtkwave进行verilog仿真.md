@@ -162,7 +162,7 @@ gtkwave可以**直接打开软件**，打开波形文件查看。
 
 如图，gtkwave中就可以查看仿真的波形，可以看到和预想的结果一致。
 
-![]({{ site.url }}/assets/gtkwave.png)
+![](/Assets/gtkwave.png)
 
 ## 偷懒
 
@@ -190,6 +190,6 @@ gtkwave wave.vcd
 
 通过在终端将这个shell脚本当作编译命令使用，可以直接完成上一节的所有过程。
 
-![]({{ site.url }}/assets/shell_gtkwave.png)
+![](/Assets/shell_gtkwave.png)
 
 也可以修改shell脚本中相关部分，直接在vscode中运行shell脚本。
