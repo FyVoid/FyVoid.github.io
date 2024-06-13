@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 北航离散数学(1)-python相关代码实现
 category: BUAA
 tags: DiscreteMath, Python
