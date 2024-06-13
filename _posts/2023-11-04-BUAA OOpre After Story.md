@@ -1,9 +1,10 @@
 ---
-layout: posts
+layout: single
 title: "BUAA OOpre After Story"
 category: BUAA
 tags: OOP
-layout: single
+toc: true
+toc_sticky: true
 ---
 
 ## 写在最前

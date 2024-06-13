@@ -1,8 +1,10 @@
 ---
-layout: posts
+layout: single
 title: "在Mac下使用iverilog和gtkwave进行verilog仿真"
 category: BUAA
 tags: MacOS, verilog, ComputerOrganization
+toc: true
+toc_sticky: true
 ---
 
 > 由于**iverilog**和**gtkwave**均为跨平台开源工具，进行配置后本教程同样适用于windows和linux平台
