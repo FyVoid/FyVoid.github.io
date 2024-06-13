@@ -59,7 +59,7 @@ OOpre本身的体验是很好的，写代码的过程也很有趣，在这个学
 
 ```
 
-代码架构图：![架构.drawio](/Assets/oo-struct.png)
+代码架构图：![架构.drawio](/Assets/2023-11-04-BUAA OOpre After Story/oo-struct.png)
 
 显然，这个架构是合理的但是是不够完美的。
 

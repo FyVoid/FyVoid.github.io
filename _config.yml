@@ -24,8 +24,8 @@ description              : "This is FyVoid's blog, I share dev experience and pe
 url                      : "Fyvoid.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : FyVoid/FyVoid.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /Assets/default-teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /Assets/logo.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /Assets/index/default-teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /Assets/index/logo.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 60
@@ -94,7 +94,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /Assets/logo.jpeg # Open Graph/Twitter default site image
+og_image                 : /Assets/index/logo.jpeg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "FyVoid"
-  avatar           : /Assets/logo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /Assets/index/logo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science &
                       Artificial Intelligence &
                       Games and Manga"
