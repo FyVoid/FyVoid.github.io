@@ -3,6 +3,7 @@ layout: posts
 title: "BUAA OOpre After Story"
 category: BUAA
 tags: OOP
+layout: single
 ---
 
 ## 写在最前

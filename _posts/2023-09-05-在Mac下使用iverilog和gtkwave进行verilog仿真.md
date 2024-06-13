@@ -134,7 +134,7 @@ endmodule
 
 现在，我们需要在terminal手动进行编译，生成波形文件，并用gtkwave查看生成的波形。
 
-#### 编译
+### 编译
 
 在terminal输入：
 
@@ -144,7 +144,7 @@ iverilog -o wave counter.v counter_tb.v
 
 -o指定生成文件的名称（wave），后面的参数表示编译的源文件，完成编译后，可以看到目录中多出了wave文件
 
-#### 生成波形文件
+### 生成波形文件
 
 输入：
 
@@ -154,7 +154,7 @@ vvp -n wave -lxt2
 
 运行后，可以看到目录产生了wave.vcd文件
 
-#### 用gtkwave查看波形
+### 用gtkwave查看波形
 
 gtkwave可以**直接打开软件**，打开波形文件查看。
 
