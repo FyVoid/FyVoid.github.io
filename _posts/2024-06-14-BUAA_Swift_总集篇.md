@@ -7,7 +7,9 @@ toc: true
 toc_sticky: true
 ---
 
-> 关于[什么是总集篇]({{ site.url }}/What-is-summary/index)
+这是BUAA Swift课程 2023 的总集篇
+
+> 关于[什么是总集篇](/What-is-summary/index)
 
 ## 学什么
 
