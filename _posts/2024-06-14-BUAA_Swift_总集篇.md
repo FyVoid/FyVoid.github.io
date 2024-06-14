@@ -2,7 +2,7 @@
 layout: single
 title: "BUAA 2023 Swift 总集篇"
 category: BUAA
-tags: BUAA, Swift, SwiftUI
+tags: BUAA Swift SwiftUI
 toc: true
 toc_sticky: true
 ---

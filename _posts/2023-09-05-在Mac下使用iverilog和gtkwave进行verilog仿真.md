@@ -2,7 +2,7 @@
 layout: single
 title: "在Mac下使用iverilog和gtkwave进行verilog仿真"
 category: BUAA
-tags: MacOS, verilog, ComputerOrganization
+tags: MacOS verilog ComputerOrganization
 toc: true
 toc_sticky: true
 ---
