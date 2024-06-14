@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: "Waifu Ranking for FyVoid"
 toc: true
+toc_sticky: true
 ---
 
 ## TIER S

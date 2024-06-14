@@ -11,4 +11,4 @@ toc_sticky: true
 
 对*精品课程*不做评价，本博客记录一下对教材python部分的实现
 
-你可以在https://github.com/FyVoid/BeiHangDM找到这个库的所有源码
+### 你可以在[github项目](https://github.com/FyVoid/BeiHangDM)找到这个库的所有源码

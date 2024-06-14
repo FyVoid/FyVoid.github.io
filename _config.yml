@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.26.1"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Zh_CN.UTF-8"
 title                    : "FyVoid's Blog"
 title_separator          : # "-"
 subtitle                 : This is FyVoid's blog # site tagline that appears below site title in masthead
@@ -27,8 +27,8 @@ repository               : FyVoid/FyVoid.github.io # GitHub username/repo-name e
 teaser                   : /Assets/index/default-teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /Assets/index/logo.jpeg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 60
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 15
 enable_copy_code_button  : true # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -116,7 +116,8 @@ author:
   avatar           : /Assets/index/logo.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science &
                       Artificial Intelligence &
-                      Games and Manga"
+                      Games and Manga
+                      Welcome to contact me by email or twitter!"
   location         : "Hyrule"
   email            : "mythstudiofyvoid@outlook.com"
   links:
