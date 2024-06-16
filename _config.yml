@@ -20,7 +20,7 @@ title                    : "FyVoid's Blog"
 title_separator          : # "-"
 subtitle                 : This is FyVoid's blog # site tagline that appears below site title in masthead
 name                     : "FyVoid"
-description              : "This is FyVoid's blog, I share dev experience and personal thoughts here."
+description              : "This is FyVoid's blog."
 url                      : "Fyvoid.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : FyVoid/FyVoid.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
